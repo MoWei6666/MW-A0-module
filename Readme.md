@@ -1,8 +1,8 @@
-<h1>A0后台优化更新文档与配置文档</h1>
+<h1>✨ A0后台优化更新文档与配置文档</h1>
 <a href="http://cppmicroservices.org/"><img alt="C++ Language" src="https://img.shields.io/badge/-C++-808080?logo=c%2B%2B&style=flat-square&logoColor=ffffff">
 <a href="https://www.python.org/"><img alt="Bash Shell" src="https://img.shields.io/badge/-Bash-ae9a5a?style=flat-square&logo=shell&logoColor=ffffff">
 <img alt="Android Support" src="https://img.shields.io/badge/Android%208~14-Support-green">
-<img alt="arm64-v8a Support" src="https://img.shields.io/badge/arm64--v8a-Support-green">
+<img alt="arm64-v8a Support" src="https://img.shields.io/badge/arm64--v8a-Support-green"> </a>
 1.模块基于嘟嘟ski的scene附加模块二修改得来 <br>
 模块将由魔威共同维护与更新 <br>
 由于还是学生可能会鸽 <br>
